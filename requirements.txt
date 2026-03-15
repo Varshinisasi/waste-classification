@@ -1,7 +1,5 @@
-//tensorflow==2.15.0
+
 flask
-//numpy
-//pillow
 tensorflow-cpu
 fastapi
 uvicorn
